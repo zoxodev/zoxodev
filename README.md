@@ -14,7 +14,7 @@ I code as I write <<< I write as I speak <<< I speak as I think <<< I have a sto
 
 You can borrow some of my mantras or all of them. Thank me later 🍻
 
-How to thank me:
+🙏 How to thank me:
 - ⭐️ star this profile
 <!---
 - ☕️ throw some pennies for a coffe
