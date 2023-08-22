@@ -3,10 +3,6 @@
 This is my playground for gathering (no-bullshit / PRO) information and templates for my projects.
 I’m currently learning everything I can find about Swift and SwiftUI because I’m interested in IOS mobile app development as a hobby.
 
-🛑 DISCLAIMER: 
-
-I code as I write <<< I write as I speak <<< I speak as I think <<< I have a stoic perspective of the world and sometimes I use strong language 🤬 
-
 🧘‍♂️ MANTRAS - Reminders to myself:
 - Beginner is totally fine but doesn’t get the job done, do more - become better!
 - Easy & Clean is the hardest to achieve
